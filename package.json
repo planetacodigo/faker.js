@@ -1,5 +1,5 @@
 {
-  "name": "faker",
+  "name": "@timored/faker",
   "description": "Generate massive amounts of fake contextual data",
   "version": "5.5.3",
   "contributors": [
