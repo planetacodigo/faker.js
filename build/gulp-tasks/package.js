@@ -1,6 +1,6 @@
 // generates a new faker package based on a list of locales
 
-var locale = 'en';
+var locale = 'es_MX';
 
 /*
 
